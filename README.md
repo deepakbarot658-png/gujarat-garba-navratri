@@ -16,3 +16,4 @@ Static HTML/CSS/JS website ready for Vercel.
 - Edit `script.js` for songs and player behavior.
 - Replace the demo Unsplash image URLs with your own images if you want the site to remain fully under your control.
 - For real music playback, use music you own or have permission/licensing to publish.
+.
